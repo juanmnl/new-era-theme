@@ -1,6 +1,7 @@
 # New era Syntax Theme
 
-WIP for a Frontend driven theme
+WIP for a beautiful color palette, easy on the eyes, and frontend-ish driven theme.
+Best used with the polychrome ui theme.
 
 ## Screen
 
