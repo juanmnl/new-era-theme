@@ -1,0 +1,24 @@
+{
+  "name": "new-era-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A nice readable syntax",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juanmnl/new-era-theme.git"
+  },
+  "engines": {
+    "atom": ">=0.50.0"
+  },
+  "keywords": [
+    "atom",
+    "syntax",
+    "theme"
+  ],
+  "author": "juanmnl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanmnl/new-era-theme/issues"
+  },
+  "homepage": "https://github.com/juanmnl/new-era-theme"
+}
