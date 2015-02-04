@@ -1,6 +1,6 @@
 @import "syntax-variables";
 
-.editor-colors {
+.atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 }
@@ -56,12 +56,12 @@
   }
 }
 
-.editor .search-results .marker .region {
+.atom-text-editor .search-results .marker .region {
   background-color: transparent;
   border: 2px solid @syntax-result-marker-color;
 }
 
-.editor .search-results .marker.current-result .region {
+.atom-text-editor .search-results .marker.current-result .region {
   border: 2px solid @syntax-result-marker-color-selected;
 }
 
@@ -84,11 +84,11 @@
   color: @tags;
 
   &.control {
-    color: @tags;
+    color: @keywordControl;
   }
 
   &.operator {
-    color: lighten(@orange, 10%);
+    color: @keywordControl;
   }
 
   &.other.special-method {
@@ -101,11 +101,11 @@
 }
 
 .storage {
-  color: @cyan;
+  color: @storageTypeFunction;
 }
 
 .constant {
-  color: @orange;
+  color: @constant;
 
   &.character.escape {
     color: @cyan;
@@ -125,14 +125,14 @@
 }
 
 .variable {
-  color: lighten(@orange, 5%);
+  color: @variable;
 
   &.interpolation {
     color: darken(@orange, 10%);
   }
 
   &.parameter.function {
-    color: @tags;
+    color: @supportClass;
   }
 }
 
@@ -142,7 +142,7 @@
 }
 
 .string {
-  color: @yellow;
+  color: @string;
 
 
   &.regexp {
@@ -168,7 +168,7 @@
     &.variable,
     &.parameters,
     &.array {
-      color: @tags;
+      color: @braces;
     }
 
     &.heading,
@@ -195,11 +195,11 @@
 
 .support {
   &.class {
-    color: @light-orange;
+    color: @supportClass;
   }
 
   &.function  {
-    color: @orange;
+    color: @supportFunction;
 
     &.any-method {
       color: @tags;
@@ -209,7 +209,7 @@
 
 .entity {
   &.name.function {
-    color: @yellow;
+    color: @entityNameFunction;
   }
 
   &.name.class, &.name.type.class {
@@ -221,11 +221,11 @@
   }
 
   &.name.tag {
-    color: @tags;
+    color: @entityNameTag;
   }
 
   &.other.attribute-name {
-    color: @orange;
+    color: @entityOtherAttributeName;
 
     &.id {
       color: @yellow;
@@ -250,11 +250,16 @@
     color: @tags;
   }
 
+  &.brace {
+    color: @braces;
+  }
+
   &.separator {
     background-color: @gray;
     color: @syntax-text-color;
   }
 }
+
 
 .none {
   color: @syntax-text-color;
@@ -307,6 +312,6 @@
   }
 }
 
-.editor.mini .scroll-view {
+.atom-text-editor[mini] .scroll-view {
   padding-left: 1px;
 }
