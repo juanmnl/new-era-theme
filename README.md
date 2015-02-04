@@ -1,7 +1,10 @@
 # New era Syntax Theme
 
-WIP for a beautiful color palette, easy on the eyes, and frontend-ish driven theme.
-Best used with the polychrome ui theme.
+Major changes. Still WIP and will be refining colors.
+
+Beautiful color palette, readable, easy on the eyes and frontend-ish driven theme.
+
+* Best used with the polychrome ui theme.
 
 ## Screen
 
