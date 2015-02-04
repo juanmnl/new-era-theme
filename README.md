@@ -6,6 +6,8 @@ Best used with the polychrome ui theme.
 ## Screen
 
 ![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot.png)
+![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot1.png)
+![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot2.png)
 
 
 Open Atom Preferences > Themes > Search: `new-era-syntax`,
