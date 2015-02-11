@@ -1,6 +1,8 @@
 # New era Syntax Theme
 
-Major changes. Still WIP and will be refining colors.
+Major changes till perfect :P
+
+Still WIP and will be refining colors.
 
 Beautiful color palette, readable, easy on the eyes and frontend-ish driven theme.
 
@@ -17,6 +19,8 @@ Beautiful color palette, readable, easy on the eyes and frontend-ish driven them
 ### CSS
 ![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot2.png)
 
+### JSON
+![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot3.png)
 
 Open Atom Preferences > Themes > Search: `new-era-syntax`,
 then Install.
