@@ -8,8 +8,13 @@ Beautiful color palette, readable, easy on the eyes and frontend-ish driven them
 
 ## Screen
 
+### JS
 ![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot.png)
+
+### HTML
 ![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot1.png)
+
+### CSS
 ![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot2.png)
 
 
