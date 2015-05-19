@@ -1,14 +1,12 @@
 # New era Syntax Theme
 
-Major changes till perfect :P
-
-Still WIP and will be refining colors.
-
 Beautiful color palette, readable, easy on the eyes and frontend-ish driven theme.
 
-* Best used with the polychrome ui theme.
+* Best used with the redeye ui theme or one dark ui theme.
 
-## Screen
+(Still working but almost there, next step is building a specific new-era ui theme.)
+
+## Screens
 
 ### JS
 ![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot.png)
