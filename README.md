@@ -2,7 +2,7 @@
 
 Beautiful color palette, readable, easy on the eyes and frontend-ish driven theme.
 
-* Best used with the redeye ui theme or one dark ui theme.
+* Best used with the redeye ui theme.
 
 (Still working but almost there, next step is building a specific new-era ui theme.)
 
