@@ -2,7 +2,7 @@
 
 Beautiful color palette, readable, easy on the eyes and frontend-ish driven theme.
 
-* Best used with the redeye ui theme.
+* Best used with [ONE DARK UI](https://atom.io/themes/one-dark-ui) that comes bundled by default.
 
 (Still working but almost there, next step is building a specific new-era ui theme.)
 
