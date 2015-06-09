@@ -1,6 +1,6 @@
 # New era Syntax Theme
 
-Beautiful color palette, readable, easy on the eyes and frontend-ish driven theme.
+Beautiful color palette designed for all-day-coding.
 
 * Best used with [ONE DARK UI](https://atom.io/themes/one-dark-ui) that comes bundled by default.
 
