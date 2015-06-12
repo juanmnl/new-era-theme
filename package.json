@@ -1,7 +1,7 @@
 {
   "name": "new-era-syntax",
   "theme": "syntax",
-  "version": "0.8.6",
+  "version": "0.9.0",
   "description": "Beautiful color palette designed for all-day-coding. Best used with Atom's ONE DARK UI theme.",
   "repository": {
     "type": "git",
