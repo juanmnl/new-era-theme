@@ -1,5 +1,7 @@
 # New era Syntax Theme
 
+![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/hero.png)
+
 Beautiful color palette designed for all-day-coding.
 
 * Best used with [ONE DARK UI](https://atom.io/themes/one-dark-ui) that comes bundled by default.
