@@ -11,16 +11,16 @@ Beautiful color palette designed for all-day-coding.
 ## Screens
 
 ### JS
-![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot.png)
+![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screens/screenshot.png)
 
 ### HTML
-![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot1.png)
+![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screens/screenshot1.png)
 
 ### CSS
-![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot2.png)
+![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screens/screenshot2.png)
 
 ### JSON
-![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screenshot3.png)
+![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-theme/master/screens/screenshot3.png)
 
 Open Atom Preferences > Themes > Search: `new-era-syntax`,
 then Install.
