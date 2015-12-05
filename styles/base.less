@@ -60,6 +60,13 @@
   .selection .region {
     background-color: @syntax-selection-color;
   }
+
+  .bracket-matcher .region {
+    z-index: 100;
+    padding: 2px;
+    background-color: rgba(255,255,255, .2);
+    border: 1px solid @variable;
+  }
 }
 
 .atom-text-editor .search-results .marker .region {
@@ -78,7 +85,6 @@
 .entity {
   &.name.type {
     color: @light-orange;
-
   }
 
   &.other.inherited-class {
@@ -194,7 +200,7 @@
   }
 
   &.section.embedded {
-    color: darken(@red, 10%);
+    color: @cursor;
   }
 
 }
