@@ -5,16 +5,12 @@
   "description": "Free candy inside :)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/juanmnl/new-era-theme.git"
+    "url": "git@github.com:juanmnl/new-era-theme.git"
   },
   "engines": {
     "atom": ">=0.50.0"
   },
-  "keywords": [
-    "atom",
-    "syntax",
-    "theme"
-  ],
+  "keywords": ["atom", "syntax", "theme"],
   "author": "juanmnl",
   "license": "MIT",
   "bugs": {
