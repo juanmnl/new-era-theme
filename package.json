@@ -1,7 +1,7 @@
 {
   "name": "new-era-syntax",
   "theme": "syntax",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "Free candy inside :)",
   "repository": {
     "type": "git",
@@ -10,7 +10,11 @@
   "engines": {
     "atom": ">=0.50.0"
   },
-  "keywords": ["atom", "syntax", "theme"],
+  "keywords": [
+    "atom",
+    "syntax",
+    "theme"
+  ],
   "author": "juanmnl",
   "license": "MIT",
   "bugs": {
