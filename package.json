@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/juanmnl/new-era-theme/issues"
   },
-  "homepage": "https://github.com/juanmnl/new-era-theme"
+  "homepage": "https://github.com/juanmnl/new-era-theme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
 }
